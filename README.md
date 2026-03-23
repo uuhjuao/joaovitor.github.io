@@ -34,12 +34,3 @@ Durante o desenvolvimento deste projeto, pratiquei:
 * Criação de botão interativo (Dark Mode)
 * Organização de código
 
----
-
-## 📸 Preview do projeto
-
-*(adicione aqui um print do seu site depois)*
-
----
-
-## 📂 Como executar o projeto
